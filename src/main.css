@@ -1,0 +1,11 @@
+/*-----content_wrap1------*/
+.main .content_wrap1 {
+    height: 53.4375rem;
+    position: relative;
+}
+
+.main .banner>img {
+    position: absolute;
+    width: 100%;
+    object-fit: contain;
+}
